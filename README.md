@@ -1,8 +1,8 @@
 # NestJS + Docker +AppDynamics Example Project
 
 
-I have taken below referenced link example and modified the code and enabled it to work with AppDynamics.
-This a full working application.
+Below referenced link example is modified and enabled to work with AppDynamics.
+
 
 
 1. Docker file (I have rewrote the Dockerfile and kept it pretty basic which can be modified as per the user)
